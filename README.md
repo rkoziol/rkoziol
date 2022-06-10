@@ -15,9 +15,9 @@ Below is a short list of my skills and public repositories. In case of any quest
   <a href="https://www.typescriptlang.org/" target="_blank"><img width="35" src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank"><img width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://angular.io/" target="_blank"><img width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank"><img width="70" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.jpg" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank"><img width="70" src="https://www.pngkey.com/png/full/32-327123_mongodb-logo-white-png.png" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://jestjs.io/" target="_blank"><img width="35" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.cypress.io/" target="_blank"><img width="90" src="https://www.cypress.io/static/cypress-io-logo-social-share-8fb8a1db3cdc0b289fad927694ecb415.png" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.cypress.io/" target="_blank"><img width="90" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" /></a>&nbsp;&nbsp;&nbsp;
 </div>
 
 ### Additional skills
