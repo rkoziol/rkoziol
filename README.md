@@ -29,4 +29,5 @@ Below is a short list of my skills and public repositories. In case of any quest
     <a href="https://www.mysql.com/" target="_blank"><img width="60" src="https://cdn.liveagent.com/app/uploads/2020/11/MySQL-Logo.png" /></a>&nbsp;&nbsp;&nbsp;
 </div>
 
+
 Currently I'm looking forward on Data Science and Python language.
