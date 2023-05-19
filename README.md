@@ -31,4 +31,4 @@ Below is a short list of my skills and public repositories. In case of any quest
 
 <br /> <br />
 
-Currently I'm looking forward on Data Science, AI and ML
+Currently I'm looking forward on Python, Data Science, AI and ML
