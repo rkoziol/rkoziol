@@ -4,7 +4,7 @@
   ## Hi there!👋 I'm Radek - Senior Javascript Developer
 </div>
 
-You can check my portfolio or get to know something about me here: &nbsp; <a href="https://www.radoslawkoziol.com" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-blue" /></a>
+You can check my portfolio or get to know something about me here: &nbsp; <a href="https://www.radoslawkoziol.com" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-blue" /></a> (I can't decide if it's ugly or avant-garde, but no worries, new version is in progress :) )
 
 Below is a short list of my skills and public repositories. In case of any questions, just ping me, ah.. and one more - please remember to have as much as possible fun from coding! :)
 
