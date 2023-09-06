@@ -26,7 +26,7 @@ Below is a short list of my skills and public repositories. In case of any quest
    <a href="https://www.figma.com/" target="_blank"><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /></a>&nbsp;&nbsp;&nbsp;
    <a href="https://www.java.com" target="_blank"><img width="35" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank"><img width="60" src="https://blog.akai.org.pl/media/docker.png" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.mysql.com/" target="_blank"><img width="60" src="https://cdn.liveagent.com/app/uploads/2020/11/MySQL-Logo.png" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.mysql.com/" target="_blank"><img width="60" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" /></a>&nbsp;&nbsp;&nbsp;
 </div>
 
 <br /> <br />
