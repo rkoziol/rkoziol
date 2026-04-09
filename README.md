@@ -1,18 +1,21 @@
+# Hi, I'm Radek! 👋  
 
-# Hi, I'm Radek! 👋
+Frontend Architect with 13+ years of experience designing scalable, accessible web applications and keeping complex systems maintainable.
 
+Mostly working with React and TypeScript these days, but I've seen enough of the frontend world to appreciate both modern tooling and the lessons learned from older stacks (yes, including jQuery).
 
-## 🚀 About Me
-I'm a software engineer with **Javascript** / **Typescript** specialization. Currently I'm dealing mostly with **React** library but actually it's not my only tech stack. In my career I tried various libraries that were (or still are :D ) associated with the world of web - JQuery (anyone remember this lib?!), AngularJS/Angular, Vue, Express etc.
+These days I focus on architecture, scalability, accessibility, testing strategy and making sure large systems stay predictable as they grow.
 
+## 🛠 Skills  
 
-## 🛠 Skills
+**Main stack:**
+Javascript, Typescript, NodeJS, React
 
-**Main stack**: Javascript, Typescript, React
+**Also using:**
+NextJS, NestJS, Express, Playwright, Cypress, Jest, TailwindCSS  
 
-**Related technologies**: NextJS, Cypress, Jest, TailwindCSS, GCP, Docker, Jenkins, Grafana
+**Infrastructure & tools:**
+GCP, Docker, Jenkins, Grafana  
 
-**Experience also with**: AngularJS/Angular, Vue, NodeJS, Express, MongoDB, MySQL, Java
-
-___
-**Please remember to have as much as possible fun from coding! :)**
+**Seen in the wild before:**
+AngularJS/Angular, Vue, MongoDB, MySQL, Java
